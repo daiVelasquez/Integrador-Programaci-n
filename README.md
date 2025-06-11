@@ -28,5 +28,6 @@ Materia: Programación I
 - **Búsqueda:**
   - Búsqueda binaria (requiere lista previamente ordenada)
 
-
+- **Linnk Presentación video:**
+https://www.youtube.com/watch?v=7Kn9T-b7c5g
 
